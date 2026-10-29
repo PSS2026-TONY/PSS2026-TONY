@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Public Service Solar Proposals",
+      "hasCanvas": false,
+      "bodyTextLen": 2819,
+      "bodyTextHash": "aa652930b17816067632fad62ddbf939582ab30a27cabf6ab42d16878eaa079a",
+      "bodyTextPrefix": "PUBLIC SERVICE SOLAR Proposal studio · one Aurora design per job",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/now.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Public Service Solar Proposals",
+      "hasCanvas": false,
+      "bodyTextLen": 2819,
+      "bodyTextHash": "aa652930b17816067632fad62ddbf939582ab30a27cabf6ab42d16878eaa079a",
+      "bodyTextPrefix": "PUBLIC SERVICE SOLAR Proposal studio · one Aurora design per job",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/now-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/now.json"
+}
