@@ -79,7 +79,14 @@ export function ProposalStudio() {
               <p className="text-sm text-panel-muted">Proposal studio · one Aurora design per job</p>
             </div>
           </div>
-          <div className="flex gap-2">
+          <div className="flex flex-wrap gap-2">
+            <a
+              href="/public-service-solar-proposal.zip"
+              download="public-service-solar-proposal.zip"
+              className="rounded-lg border border-white/15 px-3 py-2 text-sm"
+            >
+              Download
+            </a>
             <button
               type="button"
               onClick={() => {
